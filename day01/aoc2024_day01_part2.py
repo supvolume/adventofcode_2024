@@ -1,4 +1,4 @@
-# AOC 2024 Part 2
+# AOC 2024 Day 1 Part 2
 txt = open("../input/input_day01.txt", 'r').read()
 txt_list = list(txt.split("\n"))
 
